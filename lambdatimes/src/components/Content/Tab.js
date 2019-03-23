@@ -12,4 +12,8 @@ if (props.tab)
   );
 }
 
+Tab.propTypes = {
+  tab: PropTypes.array
+}
+
 export default Tab;

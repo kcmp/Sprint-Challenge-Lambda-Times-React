@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <HeaderDiv>
       <DateSpan>MARCH 23, 2019</DateSpan>
-      <h1>Lambda Times</h1>
+      <HeaderH1>Lambda Times</HeaderH1>
       <TempSpan>98°</TempSpan>
     </HeaderDiv>
   )
